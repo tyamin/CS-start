@@ -15,8 +15,18 @@ body {
 h1 {
     color: blue;
 }
-img {
+.gym {
     width: 50%;
     height: 60%;
-    border: solid red 12px;
+    border: solid rgb(58, 46, 46) 12px;
+}
+.gangactivity {
+    width: 50%;
+    height: 60%;
+    border: solid rgb(43, 34, 34) 12px;
+}
+.lightskin {
+    width: 50%;
+    height: 60%;
+    border: solid rgb(53, 46, 46) 12px;
 }
