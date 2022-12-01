@@ -1,0 +1,22 @@
+body {
+    color:aliceblue; 
+    background-color: aqua;
+}
+.first {
+    color: black;
+    background-color: beige;
+    text-align: center;
+    width: 100%;
+    border-radius: 20px;
+}
+.first:hover {
+    color: brown;
+}
+h1 {
+    color: blue;
+}
+img {
+    width: 50%;
+    height: 60%;
+    border: solid red 12px;
+}
